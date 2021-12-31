@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @milaxonyc
+- 👋 Hi, I’m @milaxonyc, but you can me Mila.
 - 👀 I’m interested in ... Car Mechanics, Computer science, Problem finding.
 - 🌱 I’m currently learning ... Computer science.
 - 💞️ I’m looking to collaborate on ... New entry level projects that might help me become better at Computer science and programming languages.
